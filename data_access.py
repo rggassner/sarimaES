@@ -66,4 +66,4 @@ def getIpDstByteSum(ip,now_time,TRAINING_START_HOURS=None,TRAINING_END_HOURS=Non
     return([training,scoring])
 
   targets = {
-        '10.10.10.10':'aba.com'}
+        '10.10.10.10':'www.foo.com'}
